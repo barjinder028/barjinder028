@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=0C4A6E&center=true&vCenter=true&multiline=false&repeat=true&width=540&height=40&lines=Turning+raw+data+into+actionable+business+insights;Excel+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Azure;Google+Certified+Data+Analyst+%7C+AZ-900+Certified;Open+to+Entry-Level+Data+Analyst+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=0C4A6E&center=true&vCenter=true&multiline=false&repeat=true&width=540&height=40&lines=Turning+raw+data+into+actionable+business+insights;Excel+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Azure;Google+Certified+Data+Analyst+%7C+AZ-900+Certified;Open+to+Data+Analyst+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
