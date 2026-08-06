@@ -125,6 +125,14 @@
     <img src="https://streak-stats.demolab.com?user=barjinder028&background=1B263B&ring=778DA9&fire=778DA9&currStreakNum=E0E1DD&sideNums=E0E1DD&currStreakLabel=778DA9&sideLabels=415A77&dates=415A77&border=415A77&hide_border=false" alt="GitHub streak" />
   </a>
 </p>
+<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barjinder028/barjinder028/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barjinder028/barjinder028/output/snake-light.svg">
+    <img src="https://raw.githubusercontent.com/barjinder028/barjinder028/output/snake-dark.svg" alt="Contribution snake" width="100%"/>
+  </picture>
+</p>
 
 <br/>
 
