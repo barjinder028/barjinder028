@@ -47,6 +47,17 @@
 
 <br/>
 
+<!-- ═════════════ AGENT EVOLUTION ═════════════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./barji-agents.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="./barji-agents-light.svg?v=2">
+    <img src="./barji-agents.svg?v=2" alt="Timeline: how AI agents evolved from rule systems to multi-agent orchestration" width="100%"/>
+  </picture>
+</div>
+
+<br/>
+
 <!-- ═════════════ CERTIFICATIONS ═════════════ -->
 <h2 align="center">Certifications</h2>
 <br/>
