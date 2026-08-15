@@ -128,6 +128,24 @@
 
 <br/>
 
+<!-- ═════════════ FEATURED PROJECT ═════════════ -->
+<h2 align="center">Featured Project</h2>
+<br/>
+<p align="center"><b>RAG Resume Assistant</b> — retrieval-augmented generation pipeline with a tested evaluation harness</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Retrieval-Chunking%2C%20embeddings%2C%20caching%2C%20cosine%20similarity-778DA9?style=flat-square&labelColor=1B263B" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Evaluation-Top--1%2050%25%2C%20Top--3%20100%25%2C%20two%20real%20failure%20modes%20diagnosed-778DA9?style=flat-square&labelColor=1B263B" />
+</p>
+<p align="center">
+  <a href="https://github.com/barjinder028/agentic-ai-journey/tree/main/projects/rag-resume-assistant">
+    <img src="https://img.shields.io/badge/View%20Project-778DA9?style=for-the-badge&labelColor=1B263B" />
+  </a>
+</p>
+
+<br/>
+
 <!-- ═════════════ ACTIVITY ═════════════ -->
 <h2 align="center">Activity</h2>
 <br/>
