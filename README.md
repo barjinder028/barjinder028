@@ -151,7 +151,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/barjinder028">
-    <img src="https://streak-stats.demolab.com?user=barjinder028&background=1B263B&ring=778DA9&fire=778DA9&currStreakNum=E0E1DD&sideNums=E0E1DD&currStreakLabel=778DA9&sideLabels=415A77&dates=415A77&border=415A77&hide_border=false" alt="GitHub streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=barjinder028&background=1B263B&ring=778DA9&fire=778DA9&currStreakNum=E0E1DD&sideNums=E0E1DD&currStreakLabel=778DA9&sideLabels=415A77&dates=415A77&border=415A77&hide_border=false" alt="GitHub streak" />
   </a>
 </p>
 <br/>
