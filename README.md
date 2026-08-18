@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=barjinder028&color=778DA9&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/barjinder028&label=Profile+Views&countColor=%23778DA9&style=flat-square" alt="Profile views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/barjinder028?label=Followers&style=flat-square&color=778DA9&labelColor=1B263B" alt="Followers" />
 </p>
