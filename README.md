@@ -146,6 +146,21 @@
 
 <br/>
 
+<p align="center"><b>Multi-Agent Supervisor System</b> — three specialist agents coordinated by a supervisor, with a routing evaluation harness</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Supervisor%20pattern%20with%20date%2C%20math%2C%20and%20RAG--powered%20resume%20agents-778DA9?style=flat-square&labelColor=1B263B" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Evaluation-100%25%20routing%20accuracy%2C%20found%20and%20fixed%20a%20real%20delegation%20bug-778DA9?style=flat-square&labelColor=1B263B" />
+</p>
+<p align="center">
+  <a href="https://github.com/barjinder028/agentic-ai-journey/tree/main/projects/multi-agent-supervisor">
+    <img src="https://img.shields.io/badge/View%20Project-778DA9?style=for-the-badge&labelColor=1B263B" />
+  </a>
+</p>
+
+<br/>
+
 <!-- ═════════════ ACTIVITY ═════════════ -->
 <h2 align="center">Activity</h2>
 <br/>
